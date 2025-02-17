@@ -11,5 +11,5 @@ Hello! I'm **Levi Kisaka**, a versatile software developer passionate about craf
 - **Languages**: TypeScript, JavaScript, PHP, SQL
 - **Frameworks**: React.js, Next.js, Laravel
 - **Databases**: SQLite, MySQL
-- **Tools**: Git, Tailwind CSS, Material-UI, Docker
+- **Tools**: Git, Tailwind CSS, Material-UI
 - **Other Expertise**: API development, payment integrations, responsive design
